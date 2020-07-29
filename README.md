@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, sou o Lucas Torres!
 
-<!--
-**Lucas340/Lucas340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sobre mim
+Sou um desenvolvedor junior(pelo menos eu me considero junior xD) atualmente focado no aprendizado de React, ReactNative e NodeJS.
 
-Here are some ideas to get you started:
+- No que ando trabalhando?
+Atualmente estou trabalhando em 2 projetos: ClassX, uma plataforma de estudos online com video-aulas, atividades chats com professores && SwiftBOT, um bot simples porém bom para servidores de Discord(nele, programo o bot em si e o seu website)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend ou frontend?
+Sinceramente dizendo, Backend... Não é porque eu apenas gosto de programar backend, e sim pois não tenho muita habilidade em estilos... Embora seja legal trabalhar no frontend, é  por causa da minha dificuldade que eu prefiro backend.
+
+- Tecnologias que eu mais gosto
+São muitas, mas posso citar React, ReactNative e NodeJS,
