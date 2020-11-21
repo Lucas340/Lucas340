@@ -1,4 +1,4 @@
-### Olá, sou o Lucas Torres!
+### Olá, sou o Lucas!
 
 #### Sobre mim
 Sou um desenvolvedor junior(pelo menos eu me considero junior xD) atualmente focado no aprendizado de React, ReactNative e NodeJS.
